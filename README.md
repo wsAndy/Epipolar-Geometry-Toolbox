@@ -1,11 +1,15 @@
-=====
-2018-01-24
-
 The main functions in folder 'EGT'  are copied from http://egt.dii.unisi.it/
 
 Thanks for Gian Luca Mariottini and Domenico Prattichizzo !
 
+1. showCamera
+
     showCamera.m
-    You could see Picture like:
-    
+
 ![](./showCamera.jpg)
+
+2. show point cloud
+ 
+     showDepth.m
+
+![](./showDepth.jpg)
