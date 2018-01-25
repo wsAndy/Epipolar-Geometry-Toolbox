@@ -13,3 +13,11 @@ Thanks for Gian Luca Mariottini and Domenico Prattichizzo !
      showDepth.m
 
 ![](./showDepth.jpg)
+
+3. show dense pointcloud / 2D depth image
+    
+     drawDenseDepth.m
+
+![](./pointcloud.jpg)
+
+
